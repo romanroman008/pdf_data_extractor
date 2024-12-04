@@ -30,15 +30,3 @@ Run the application:
 ```bash
 python main.py
 ```
-
-## Tests
-
-Run unit tests:
-
-```bash
-python -m unittest discover tests
-```
-
-## License
-
-This project is licensed under the MIT License.
